@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo crear una API RESTful que maneja dos colecciones relacionadas: Autores y Obras. Utilizando Express para gestionar las rutas y Mongoose para interactuar con MongoDB Atlas, puedes realizar operaciones CRUD completas, crear relaciones entre las colecciones y cargar datos iniciales.
